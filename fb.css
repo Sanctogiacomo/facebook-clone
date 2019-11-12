@@ -1,0 +1,75 @@
+body *{
+	padding: 0px; margin:0px;
+}
+header{
+	background-color:#4267b2;
+	display: grid;
+	grid-template-rows: 1;
+	grid-template-columns: 60% 40%;
+	min-height: 70%; 
+	font-family:  tahoma, verdana, arial, sans-serif;
+}
+#fb_logo a{
+	color:white; text-decoration: none; padding-left: 
+	250px; margin-top: 30px; position: relative; top:10px;
+}
+form{color:white; }
+form div{display: inline-block;}
+#forgotten{
+	color: white; text-decoration: none; 
+	padding-left: 180px; 
+	 font-size: 11px; padding-top: none;
+
+}
+#forgotten:hover{
+	text-decoration: underline;
+}
+
+section{
+display: grid; grid-template-rows: 1; grid-template-columns: 60% 40%;
+}
+main p{
+	padding-left: 250px; padding-top:25px; color:#130f78; font-size: 16px; font-family:serif; 
+}
+
+#p2{
+	padding-left:250px; color:#130f78; font-size: 16px; font-family:serif; 
+}
+#p3{
+	color:#070539; padding-top:50px; font-size: 25px; font-family: tahoma; position: relative; top:20px;
+padding-left: 0px;}
+#inf p{
+	color:#09065b;  padding-top:10px; font-size: 14px; font-family: tahoma; position: relative; top:20px;
+padding-left: 0px;
+}
+#inf2{
+	padding-left:0px; 
+}
+#birthday, a{padding-left:0px; color:silver;}
+#img1{padding-left:250px;}
+#Gender{
+	padding-bottom: 10px;
+}
+input{
+	border-radius:2px;  
+}
+#inf3{
+	font-size: 12px;font-family: veranda;
+}
+#Signup input{
+background-color:#438c36; width:130px;height: 25px; color:white;border-color:#317c27; 
+font-style: bold; border-radius: 5px;}
+#inf4{
+	font-size: 12px;font-family: veranda;}
+#inf4 p a{text-decoration: none; color: blue;}
+footer a{
+ color:blue; margin-left: 10px;font-size:12px; text-decoration: none;}
+ #line{
+ 	border-bottom: 2px solid white; width:800px; margin-left:250px; padding-top: 15px;
+ }
+#inf5{
+	padding-top:15px;
+}
+footer{
+	background-color:silver;
+}
